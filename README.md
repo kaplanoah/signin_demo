@@ -6,6 +6,7 @@ A web application with user signin built without any gems.
 
 - app > controllers > [users_controller.rb](../../blob/master/app/controllers/users_controller.rb)
 - app > controllers > [sessions_controller.rb](../../blob/master/app/controllers/sessions_controller.rb)
+- app > helpers > [sessions_helper.rb](../../blob/master/app/helpers/sessions_helper.rb)
 - app > models > [user.rb](../../blob/master/app/models/user.rb)
 - app > views > users > [new.html.erb](../../blob/master/app/views/users/new.html.erb)
 

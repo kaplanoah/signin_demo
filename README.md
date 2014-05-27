@@ -1,6 +1,6 @@
 # Signin Demo
 
-A web application with user signin built without any gems.
+A user signin web application built without any signin gems.
 
 ### Key files
 

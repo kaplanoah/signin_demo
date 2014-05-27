@@ -17,3 +17,7 @@ Locally: fork and clone app. From terminal, in app's directory, run:
     rake db:create
     rake db:migrate
     rails s
+
+In web browser, visit:
+
+    http://localhost:3000/
